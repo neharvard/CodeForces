@@ -15,7 +15,6 @@ using namespace std;
 #define ss second
 #define nl  "\n"
 
-
 void solve()
 {
     ll n, a, b;
@@ -41,23 +40,18 @@ void solve()
             temp = cnt;
             if(mp.find(cnt) != mp.end())
             {
-               /// cout<<"cnt: "<<cnt<<endl;
+                /// cout<<"cnt: "<<cnt<<endl;
                 ll sz = mp[cnt].size();   ///cout<<"sz:"<<sz<<endl;
                 mp[cnt].clear();
-                if(cnt == it.ff)
-                {
-                    if(sz <= temp) cnt = temp - sz;
-                    else cnt = 0;
-                    break;
-                }
+                
                 if(sz <= temp) cnt = temp - sz;
                 else cnt = 0;
+                
+                if(temp == it.ff) break;
             }
         }
     }
-
     cout<<ans<<endl;
-
 }
 
 int main()
