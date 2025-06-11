@@ -17,4 +17,5 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 6 | 1691 | B. Shoe Shuffling | [Question](https://codeforces.com/problemset/problem/1691/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1691%20B.%20Shoe%20Shuffling.cpp)
 | 7 | 1837 | B. Comparison String | [Question](https://codeforces.com/problemset/problem/1837/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1837%20B.%20Comparison%20String.cpp)
 | 8 | 1692 | E. Binary Deque | [Question](https://codeforces.com/contest/1692/problem/E) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1692%20E.%20Binary%20Deque.cpp)
+| 9 | 1582 | C. Grandma Capa Knits a Scarf | [Question](https://codeforces.com/problemset/problem/1582/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1582%20C.%20Grandma%20Capa%20Knits%20a%20Scarf.cpp)
 
