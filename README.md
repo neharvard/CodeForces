@@ -19,4 +19,4 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 8 | 1692 | E. Binary Deque | [Question](https://codeforces.com/contest/1692/problem/E) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1692%20E.%20Binary%20Deque.cpp)
 | 9 | 1582 | C. Grandma Capa Knits a Scarf | [Question](https://codeforces.com/problemset/problem/1582/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1582%20C.%20Grandma%20Capa%20Knits%20a%20Scarf.cpp)
 | 10 | 1734 | C. Removing Smallest Multiples | [Question](https://codeforces.com/problemset/problem/1734/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1734%20C.%20Removing%20Smallest%20Multiples.cpp)
-
+| 11 | 1729 | D. Friends and the Restaurant | [Question](https://codeforces.com/problemset/problem/1729/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1729%20D.%20Friends%20and%20the%20Restaurant.cpp)
