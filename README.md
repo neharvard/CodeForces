@@ -23,3 +23,4 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 12 | 1504 | B. Flip the Bits | [Question](https://codeforces.com/contest/1504/problem/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1504%20B.%20Flip%20the%20Bits.cpp)
 | 13 | 1883 | B. Chemistry | [Question](https://codeforces.com/problemset/problem/1883/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1883%20B.%20Chemistry.cpp)
 | 14 | 1878 | C. Vasilije in Cacak | [Question](https://codeforces.com/problemset/problem/1878/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1878%20C.%20Vasilije%20in%20Cacak.cpp)
+| 15 | 2114 | C. Need More Arrays | [Question](https://codeforces.com/contest/2114/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2114%20C.%20Need%20More%20Arrays.cpp)
