@@ -25,3 +25,4 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 14 | 1878 | C. Vasilije in Cacak | [Question](https://codeforces.com/problemset/problem/1878/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1878%20C.%20Vasilije%20in%20Cacak.cpp)
 | 15 | 2114 | C. Need More Arrays | [Question](https://codeforces.com/contest/2114/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2114%20C.%20Need%20More%20Arrays.cpp)
 | 16 | 1606 | A. AB Balance | [Question](https://codeforces.com/contest/1606/problem/A) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1606%20A.%20AB%20Balance.cpp)
+| 17 | 1539 | C. Stable Groups | [Question](https://codeforces.com/problemset/problem/1539/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1539%20C.%20Stable%20Groups.cpp)
