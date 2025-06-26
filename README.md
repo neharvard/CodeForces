@@ -26,3 +26,4 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 15 | 2114 | C. Need More Arrays | [Question](https://codeforces.com/contest/2114/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2114%20C.%20Need%20More%20Arrays.cpp)
 | 16 | 1606 | A. AB Balance | [Question](https://codeforces.com/contest/1606/problem/A) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1606%20A.%20AB%20Balance.cpp)
 | 17 | 1539 | C. Stable Groups | [Question](https://codeforces.com/problemset/problem/1539/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1539%20C.%20Stable%20Groups.cpp)
+| 18 | 1527 | B1. Palindrome Game (easy version) | [Question](https://codeforces.com/problemset/problem/1527/B1) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1527%20B1.%20Palindrome%20Game%20(easy%20version).cpp)
