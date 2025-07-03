@@ -27,4 +27,5 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 16 | 1606 | A. AB Balance | [Question](https://codeforces.com/contest/1606/problem/A) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1606%20A.%20AB%20Balance.cpp)
 | 17 | 1539 | C. Stable Groups | [Question](https://codeforces.com/problemset/problem/1539/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1539%20C.%20Stable%20Groups.cpp)
 | 18 | 1527 | B1. Palindrome Game (easy version) | [Question](https://codeforces.com/problemset/problem/1527/B1) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1527%20B1.%20Palindrome%20Game%20(easy%20version).cpp)
-| 19 | 1790 |D. Matryoshkas | [Question](https://codeforces.com/problemset/problem/1790/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1790%20D.%20Matryoshkas.cpp)
+| 19 | 1790 | D. Matryoshkas | [Question](https://codeforces.com/problemset/problem/1790/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1790%20D.%20Matryoshkas.cpp)
+| 20 | 1433 | D. Districts Connection | [Question](https://codeforces.com/problemset/problem/1433/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1433%20D.%20Districts%20Connection.cpp)
