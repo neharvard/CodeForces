@@ -30,4 +30,5 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 19 | 1790 | D. Matryoshkas | [Question](https://codeforces.com/problemset/problem/1790/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1790%20D.%20Matryoshkas.cpp)
 | 20 | 1433 | D. Districts Connection | [Question](https://codeforces.com/problemset/problem/1433/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1433%20D.%20Districts%20Connection.cpp)
 | 21 | 1793 | C. Dora and Search | [Question](https://codeforces.com/problemset/problem/1793/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1793%20C.%20Dora%20and%20Search.cpp)
+| 22 | 1373 | B. 01 Game | [Question](https://codeforces.com/problemset/problem/1373/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1373%20B.%2001%20Game.cpp)
 
