@@ -31,4 +31,5 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 20 | 1433 | D. Districts Connection | [Question](https://codeforces.com/problemset/problem/1433/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1433%20D.%20Districts%20Connection.cpp)
 | 21 | 1793 | C. Dora and Search | [Question](https://codeforces.com/problemset/problem/1793/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1793%20C.%20Dora%20and%20Search.cpp)
 | 22 | 1373 | B. 01 Game | [Question](https://codeforces.com/problemset/problem/1373/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1373%20B.%2001%20Game.cpp)
+| 23 | 1808 | B. Playing in a Casino | [Question](https://codeforces.com/problemset/problem/1808/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1808%20B.%20Playing%20in%20a%20Casino.cpp)
 
