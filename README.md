@@ -33,4 +33,4 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 22 | 1373 | B. 01 Game | [Question](https://codeforces.com/problemset/problem/1373/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1373%20B.%2001%20Game.cpp)
 | 23 | 1808 | B. Playing in a Casino | [Question](https://codeforces.com/problemset/problem/1808/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1808%20B.%20Playing%20in%20a%20Casino.cpp)
 | 24 | 1703 | E. Mirror Grid | [Question](https://codeforces.com/problemset/problem/1703/E) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1703%20E.%20Mirror%20Grid.cpp)
-
+| 25 | 2118 | B. Make It Permutation | [Question](https://codeforces.com/contest/2118/problem/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2118%20B.%20Make%20It%20Permutation.cpp)
