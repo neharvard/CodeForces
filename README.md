@@ -39,3 +39,4 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 28 | 2121 | C. Those Who Are With Us | [Question](https://codeforces.com/contest/2121/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2121%20C.%20Those%20Who%20Are%20With%20Us.cpp)
 | 29 | 2126 | D. This Is the Last Time | [Question](https://codeforces.com/contest/2126/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2126%20D.%20This%20Is%20the%20Last%20Time.cpp)
 | 30 | 2117 | C. Cool Partition | [Question](https://codeforces.com/contest/2117/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2117%20C.%20Cool%20Partition.cpp)
+| 31 | 2091 | D. Place of the Olympiad | [Question](https://codeforces.com/contest/2091/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2091%20D.%20Place%20of%20the%20Olympiad.cpp)
