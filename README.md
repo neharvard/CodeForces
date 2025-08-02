@@ -42,3 +42,5 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 31 | 2091 | D. Place of the Olympiad | [Question](https://codeforces.com/contest/2091/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2091%20D.%20Place%20of%20the%20Olympiad.cpp)
 | 32 | 2051 | D. Counting Pairs | [Question](https://codeforces.com/contest/2051/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2051%20D.%20Counting%20Pairs.cpp)
 | 33 | 2072 | C. Creating Keys for StORages Has Become My Main Skill | [Question](https://codeforces.com/contest/2072/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2072%20C.%20Creating%20Keys%20for%20StORages%20Has%20Become%20My%20Main%20Skill.cpp)
+| 34 | 2050 | C. Uninteresting Number | [Question](https://codeforces.com/contest/2050/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2050%20C.%20Uninteresting%20Number.cpp)
+
