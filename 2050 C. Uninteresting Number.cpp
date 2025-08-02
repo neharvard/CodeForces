@@ -55,8 +55,40 @@ void solve()
 
     if(ok) cout<<"YES"<<endl;
     else cout<<"NO"<<endl;
-
 }
+
+// More Cleaner code with same logic
+void solve()
+{
+    string s;
+    cin>>s;
+
+    ll sz = s.size(), two = 0, three = 0, sum = 0;
+
+    for(ll i=0; i<sz; i++)
+    {
+        sum += s[i] - '0';
+        if(s[i] == '2') two++;
+        else if(s[i] == '3') three++;
+    }
+
+    for(ll i=0; i<=min(two, 9); i++)
+    {
+        for(ll j=0; j<=min(three, 9); j++)
+        {
+            sum += (i*2) + (j*6);
+            if(sum % 9 == 0)
+            {
+                cout<<"YES"<<endl;
+                return;
+            }
+        }
+    }
+
+    cout<<"NO"<<endl;
+}
+
+
 
 int main()
 {
