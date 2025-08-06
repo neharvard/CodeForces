@@ -44,4 +44,5 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 33 | 2072 | C. Creating Keys for StORages Has Become My Main Skill | [Question](https://codeforces.com/contest/2072/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2072%20C.%20Creating%20Keys%20for%20StORages%20Has%20Become%20My%20Main%20Skill.cpp)
 | 34 | 2050 | C. Uninteresting Number | [Question](https://codeforces.com/contest/2050/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2050%20C.%20Uninteresting%20Number.cpp)
 | 35 | 1933 | D. Turtle Tenacity: Continual Mods | [Question](https://codeforces.com/contest/1933/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1933%20D.%20Turtle%20Tenacity%3A%20Continual%20Mods.cpp)
+| 36 | 1881 | C. Perfect Square | [Question](https://codeforces.com/contest/1881/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1881%20C.%20Perfect%20Square.cpp)
 
