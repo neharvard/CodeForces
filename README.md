@@ -45,4 +45,6 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 34 | 2050 | C. Uninteresting Number | [Question](https://codeforces.com/contest/2050/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2050%20C.%20Uninteresting%20Number.cpp)
 | 35 | 1933 | D. Turtle Tenacity: Continual Mods | [Question](https://codeforces.com/contest/1933/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1933%20D.%20Turtle%20Tenacity%3A%20Continual%20Mods.cpp)
 | 36 | 1881 | C. Perfect Square | [Question](https://codeforces.com/contest/1881/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1881%20C.%20Perfect%20Square.cpp)
+| 37 | 1538 | C. Number of Pairs | [Question](https://codeforces.com/contest/1538/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1538%20C.%20Number%20of%20Pairs.cpp)
+| 38 | 2121 | D. 1709 | [Question](https://codeforces.com/contest/2121/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2121%20D.%201709.cpp)
 
