@@ -48,4 +48,6 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 37 | 1538 | C. Number of Pairs | [Question](https://codeforces.com/contest/1538/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/1538%20C.%20Number%20of%20Pairs.cpp)
 | 38 | 2121 | D. 1709 | [Question](https://codeforces.com/contest/2121/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2121%20D.%201709.cpp)
 | 39 | 2050 | D. Digital string maximization | [Question](https://codeforces.com/contest/2050/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2050%20D.%20Digital%20string%20maximization.cpp)
+| 40 | 2128 | C. Leftmost Below | [Question](https://codeforces.com/contest/2128/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2128%20C.%20Leftmost%20Below.cpp)
+
 
