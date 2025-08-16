@@ -50,5 +50,5 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 39 | 2050 | D. Digital string maximization | [Question](https://codeforces.com/contest/2050/problem/D) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2050%20D.%20Digital%20string%20maximization.cpp)
 | 40 | 2128 | C. Leftmost Below | [Question](https://codeforces.com/contest/2128/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2128%20C.%20Leftmost%20Below.cpp)
 | 41 | 2094 | E. Boneca Ambalabu | [Question](https://codeforces.com/contest/2094/problem/E) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2094%20E.%20Boneca%20Ambalabu.cpp)
-
+| 42 | 2092 | C. Asuna and the Mosquitoes | [Question](https://codeforces.com/contest/2092/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2092%20C.%20Asuna%20and%20the%20Mosquitoes.cpp)
 
