@@ -53,4 +53,5 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 42 | 2092 | C. Asuna and the Mosquitoes | [Question](https://codeforces.com/contest/2092/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2092%20C.%20Asuna%20and%20the%20Mosquitoes.cpp)
 | 43 | 2131 | B. Alternating Series | [Question](https://codeforces.com/contest/2131/problem/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2131%20B.%20Alternating%20Series.cpp)
 | 44 | 2069 | B. Set of Strangers | [Question](https://codeforces.com/contest/2069/problem/B) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2069%20B.%20Set%20of%20Strangers.cpp)
+| 45 | 2131 | C. Make it Equal | [Question](https://codeforces.com/contest/2131/problem/C) | [Solution](https://github.com/neharvard/CodeForces/blob/main/2131%20C.%20Make%20it%20Equal.cpp)
 
